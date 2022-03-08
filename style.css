@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+div{
+    background-color: white;
+    width: 380px;
+}
+img{
+    width: 380px;
+    
+
+}
+.container{
+    margin:0 auto;
+}
